@@ -83,3 +83,9 @@ postgres commands
 -\d <table name>                                 -> show the whole table 
 DROP TABLE <table name>                          -> for delete table 
 \q                                               -> quit
+
+
+
+
+
+
