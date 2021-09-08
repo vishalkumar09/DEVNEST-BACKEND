@@ -16,6 +16,9 @@
 
 <h2>THA DAY 4</h2>
 <h3>HOW INTERNET WORKS & REST AND INTRO TO NODE.JS</h3>
+ 
+ <h2>THA DAY 5</h2>
+<h3>CRUD WITH FS MODULE</h3>
 
 </body>
 </html>
